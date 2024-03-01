@@ -1,4 +1,4 @@
-### Hi, I'm Jinglin 👋:man_technologist:
+### Hi, I'm Jinglin 👋 :man_technologist:
 
 I am a Master's degree student in Embedded Systems at Uppsala University in Sweden.
 

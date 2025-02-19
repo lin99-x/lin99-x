@@ -2,13 +2,6 @@
 
 I am a Master's degree student in Computational Science at Uppsala University in Sweden.
 
-<details>
-  <summary style="margin-bottom: 1rem; margin-top: 1rem;"> GitHub Stats :chart_with_upwards_trend:</summary>
-
-  [![Most Used Languages](https://github-readme-stats.vercel.app/api?username=gaojinglin99&theme=slateorange&layout=compact&lang_count=5&count_private=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
-
 #### Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/jinglingao/) :point_left:

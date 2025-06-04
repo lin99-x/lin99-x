@@ -1,6 +1,27 @@
 ### Hi, I'm Jinglin 👋 :woman_technologist:
+</details>
 
-I am a Master's degree student in Computational Science at Uppsala University in Sweden. Currently working as Full-stack Engineer :)
+![Profile Views](https://komarev.com/ghpvc/?username=gaojinglin99&label=Profile%20views&color=0e75b6&style=flat&color=orange)
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Jinglin Gao"
+        self.role = "Software Engineer"
+        self.language_spoken = ["en_US", "zh_CN", "ja_JP"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
 
 #### Connect with me
 
@@ -26,9 +47,3 @@ I am a Master's degree student in Computational Science at Uppsala University in
 ![Static Badge](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=6aa6f8)
 ![Static Badge](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=6aa6f8)
 
-
-
-
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=gaojinglin99&label=Profile%20views&color=0e75b6&style=flat&color=orange)

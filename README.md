@@ -26,7 +26,7 @@ me.say_hi()
 #### Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/jinglingao/) :point_left:
-- [Resume Website](https://gaojinglin99.github.io/) :open_book::pen:
+- [Resume Website](https://lin99-x.github.io/) :open_book::pen:
 
 **Programming Languages:**
 

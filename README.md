@@ -26,14 +26,14 @@ me.say_hi()
 #### Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/jinglingao/) :point_left:
-- [Resume Website](https://lin99-x.github.io/) :open_book::pen:
+- [Protfolio Website](https://lin99-x.github.io/) :open_book::pen:
 
 **Programming Languages:**
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![Static Badge](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=3776AB)
+![Static Badge](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=3776AB)
 ![Static Badge](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=3776AB)
-
 
 **Tools and Services:**
 

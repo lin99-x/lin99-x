@@ -32,6 +32,7 @@ me.say_hi()
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![Static Badge](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=3776AB)
+![Static Badge](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=3776AB)
 ![Static Badge](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=3776AB)
 ![Static Badge](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=3776AB)
 

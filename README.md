@@ -48,3 +48,5 @@ me.say_hi()
 ![Static Badge](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=6aa6f8)
 ![Static Badge](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=6aa6f8)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/Lin99-x?font=patrick_hand)
+

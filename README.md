@@ -30,11 +30,11 @@ me.say_hi()
 
 **Programming Languages:**
 
+![Java](https://img.shields.io/badge/Code-Java-informational?logo=openjdk&logoColor=white&color=3776AB)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![Static Badge](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=3776AB)
-![Static Badge](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=3776AB)
-![Static Badge](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&color=3776AB)
 ![Static Badge](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=3776AB)
+![Static Badge](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=3776AB)
 
 **Tools and Services:**
 
@@ -47,6 +47,10 @@ me.say_hi()
 
 ![Static Badge](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=6aa6f8)
 ![Static Badge](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=6aa6f8)
+
+**Artificial Intelligence:**
+
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Lin99-x?font=patrick_hand)
 
